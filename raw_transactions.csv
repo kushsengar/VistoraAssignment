@@ -1,0 +1,11 @@
+transaction_id,customer_id,transaction_date,transaction_amount,payment_method,product_category
+T001,C001,2024-11-10,100.0,Credit Card,Electronics
+T002,C002,2024-11-12,50.0,PayPal,Clothing
+T003,C001,2024-11-13,75.0,Credit Card,Books
+T004,C003,2024-11-14,120.0,Debit Card,Electronics
+T005,C002,2024-11-15,60.0,PayPal,Beauty
+T006,C003,2024-11-16,30.0,UPI,Clothing
+T007,C001,2024-11-17,90.0,Credit Card,Home
+T008,C004,2024-11-18,110.0,Credit Card,Electronics
+T009,C005,2024-11-19,95.0,Debit Card,Books
+T010,C002,2024-11-20,85.0,UPI,Clothing
